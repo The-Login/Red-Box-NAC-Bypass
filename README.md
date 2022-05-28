@@ -1,4 +1,4 @@
-# Red Box NAC bypass  
+# Red Box NAC Bypass  
 
 This repository contains a python wrapper for the [nac_bypass](https://github.com/scipag/nac_bypass) tool.  
 It's used to bypass 802.1x (IEEE 802.1x-2001 and IEEE 802.1x-2004)  network access control (NAC).  
